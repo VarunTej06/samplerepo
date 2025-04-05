@@ -17,3 +17,5 @@ def is_prime(n):
 
 num = 7
 print(f"Is {num} a prime number? {is_prime(num)}")
+
+# Thankyou
