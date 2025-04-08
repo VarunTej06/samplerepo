@@ -23,4 +23,4 @@ print(f"Is {num} a prime number? {is_prime(num)}")
 # Thankyou
 
 # This is Madhuri
-# I am a Cloud DevOps Engineer
+# I am a Solutions Architect
